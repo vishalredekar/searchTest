@@ -1,0 +1,81 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+.container{
+  width: 39%;
+  margin: 3em 0 0 3em;
+  border: 2px solid black;
+}
+.menu{
+  width : 30em;
+}
+#buttonBase{
+  width: 100% !important;
+  background-color: transparent;
+  border-radius: border-box !important;
+  border-bottom: 2px black solid;
+  border-radius: 0;
+  color: black !important;
+  text-align: left;
+}
+.css-106o0pu-Menu{
+  box-shadow: none !important;
+}
+.css-4ljt47-MenuList{
+  overflow-y: hidden !important;
+}
+.css-8xdd8h-control{
+  border: 2px black solid !important;
+}
+.css-1wa3eu0-placeholder{
+ color: black !important;
+ font-weight: 700 !important;
+ margin-left: 33px !important;
+}
+.css-1hb7zxy-IndicatorsContainer{
+  position: absolute;
+  margin: 7px;
+}
+.css-b8ldur-Input{
+  margin: 2px 2px 2px 25px !important;
+}
+.css-bula3r-ButtonBase{
+  border-left: 2px solid black;
+  height: -webkit-fill-available;
+  width: 8%;
+}
